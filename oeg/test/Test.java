@@ -8,7 +8,8 @@ public class Test {
 		int b=1000;
 		int c=50;
         int d=50000;
-		System.err.println("B");
+	    int c1=50000;
+	    System.out.println("aaa");
  
 	}
 
